@@ -1,0 +1,3 @@
+# INSERT SECRET KEY / DELETE .template
+
+SECRET_KEY = ''
